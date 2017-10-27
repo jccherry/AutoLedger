@@ -22,3 +22,6 @@ $ python3 autoledger.py journal.xlsx 1 output.xlsx
 * ???
 * profit
 
+#Notes:
+* Spreadsheets must be converted to .xlsx files, previous .xls files will not work
+
