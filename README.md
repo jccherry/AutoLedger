@@ -9,7 +9,7 @@ $ python3 autoledger.py input_file sheet_number output_file_name
 
 for example:
 ```
-$ python3 autoledger.py journal.xlsx 3 output.xlsx
+$ python3 autoledger.py journal.xlsx 1 output.xlsx
 ```
 
 ## Required Libraries
