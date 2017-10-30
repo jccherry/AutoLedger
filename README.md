@@ -19,6 +19,7 @@ $ python3 autoledger.py journal.xlsx 1 output.xlsx
 * make the style look nice so no manual work has to be done
 * get formulas working for running balance 
 * make sure account object know what type of account they are
+* make accounts display in correct order
 * ???
 * profit
 
